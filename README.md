@@ -6,7 +6,7 @@ Steps to run:
 
 Make sure you have installed Jetson Inference and Docker Image from : https://github.com/dusty-nv/jetson-inference/blob/master/docks/building-repo-2.md
 
-!Tools! [https://hips.hearstapps.com/hmg-prod/images/close-up-of-tools-hanging-on-wall-royalty-free-image-760251967-1563391812.jpg]
+![Tools](https://hips.hearstapps.com/hmg-prod/images/close-up-of-tools-hanging-on-wall-royalty-free-image-760251967-1563391812.jpg)
 
 ## The Algorithm
 
