@@ -20,9 +20,9 @@ The Algorithm this project runs on uses Ai to recognize images. Using specific d
 
 - Run the training script to re-train the network where the model-dir argument is where the model should be saved and where the data is. python3 train.py --model-dir=models/Recycling_Trash data/Recycling_Trash
 
-You should immediately start to see output, but it will take a very long time to finish running. It could take hours depending on how many epochs you run for your model.
+    You should immediately start to see output, but it will take a very long time to finish running. It could take hours depending on how many epochs you run for your model.
 
-When running the model you can also specify the value of how many epochs and batch sizes you want to run. For example at the end of that code you can add: --batch-size=NumberOfBatchFiles --workers=NumberOfWorkers --epochs=NumberOfEpochs
+    When running the model you can also specify the value of how many epochs and batch sizes you want to run. For example at the end of that code you can add: --batch-size=NumberOfBatchFiles --    workers=NumberOfWorkers --epochs=NumberOfEpochs
 
 8. While it's running, you can stop it at any time using Ctl+C. You can also restart the training again later using the --resume and --epoch-start flags, so you don't need to wait for training to complete before testing out the model.
 
