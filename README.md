@@ -44,7 +44,3 @@ The Algorithm this project runs on uses Ai to recognize images. Using specific d
 
 18. Open the image in VS Code.
 
-
-Make sure to include any required libraries that need to be installed for your project to run.
-
-[View a video explanation here](video link)
