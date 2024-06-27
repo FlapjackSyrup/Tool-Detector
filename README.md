@@ -42,5 +42,4 @@ The Algorithm this project runs on uses Ai to recognize images. Using specific d
 
 16. Run this command to see how it operates on an image from the test folder. imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/garbage/trash1.jpg TestImage1.jpg
 
-18. Open the image in VS Code.
 
