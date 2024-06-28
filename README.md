@@ -44,6 +44,5 @@ The Algorithm this project runs on uses Ai to recognize images. Using specific d
 
 [View a video explination here] (https://www.youtube.com/watch?v=l_iidyeYtJM)
 
-Train.py here: 
 
 
