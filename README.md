@@ -28,7 +28,7 @@ The Algorithm this project runs on uses Ai to recognize images. Using specific d
 
 9. Make sure you are in the docker container and in jetson-inference/python/training/classification.
     
-10. Run the onnx export script. python3 onnx_export.py --model-dir=models/cat_dog
+10. Run the onnx export script. python3 onnx_export.py --model-dir=models/Tools
     
 11. Look in the jetson-inference/python/training/classification/models/Tools folder to see if there is a new model called resnet18.onnx there. That is your re-trained model.
 
